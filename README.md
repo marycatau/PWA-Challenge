@@ -1,5 +1,5 @@
 
-# Module Nineteen Challenge --- Weather-DashboardText Editor
+# Module Nineteen Challenge --- Text Editor
 
 * Description
 
